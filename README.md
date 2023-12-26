@@ -1,2 +1,2 @@
 # GUESS GAME
- This is a guess game made with c language . 
+ This is a guess game programmed in c language. 
